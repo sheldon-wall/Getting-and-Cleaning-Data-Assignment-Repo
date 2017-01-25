@@ -60,6 +60,7 @@ The script loads the raw data from the identified [source](http://archive.ics.uc
 and prepares it for use.  
 
 Then five steps are performed to:
+
 1. Merge the training and test data sets into one
 2. Extract the measurements on the mean and std. deviation
 3. Create Descriptive activity names to name the activities in the dataset

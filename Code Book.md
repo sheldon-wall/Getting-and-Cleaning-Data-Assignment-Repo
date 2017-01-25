@@ -94,11 +94,11 @@ The columns have been renamed slightly to improve understanding and the table
 below provides a mapping of the new to old variable names.  Fundamentally they have 
 been changed as follows: 
 
-mean.. becomes Mean
-std.. becomes Std
-t becomes Time
-f becomes FFT (Fast Fourier Transform)
-- becomes .
+- mean.. becomes Mean
+- std.. becomes Std
+- t becomes Time
+- f becomes FFT (Fast Fourier Transform)
+- "-" becomes .
 
 The following table provides the variable mapping from raw to tidy format.
 
